@@ -1,0 +1,6 @@
+{
+    "broker_url": "SPH-SERVER-PRODUZIONE",
+    "broker_port": 1883,
+    "topic_sub": "Advantech/+/data",
+    "topic_pub": "data_filtered"
+}

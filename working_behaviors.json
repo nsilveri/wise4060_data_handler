@@ -1,0 +1,26 @@
+{
+    "DVF5000": {
+        "working_behavior": "di1 and not di2 and not di3 and not di4",
+        "default_value": 1
+    },
+    "AWEA": {
+        "working_behavior": "di1",
+        "default_value": 1
+    },
+    "DMU50": {
+        "working_behavior": "di1",
+        "default_value": 1
+    },
+    "ECOCA-SJ20": {
+        "working_behavior": "di1",
+        "default_value": 1
+    },
+    "E.CUT": {
+        "working_behavior": "di1",
+        "default_value": 1
+    },
+    "PUMA": {
+        "working_behavior": "di1 and not di2 and not di3 and not di4",
+        "default_value": 1
+    }
+}

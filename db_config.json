@@ -1,0 +1,6 @@
+{
+    "host": "SPH-SERVER-PRODUZIONE",
+    "port": "5432",
+    "user": "postgres",
+    "password": "SphDbProduzione"
+}
